@@ -109,3 +109,45 @@ The recommended response is to avoid interacting with the email, report it throu
 * Indicators of compromise identification
 * Security incident documentation
 * Security awareness
+## Project Structure
+
+The investigation is documented using several files:
+
+* `README.md` — Project overview and investigation summary
+* `investigation-report.md` — Detailed investigation findings
+* `indicators-of-compromise.md` — Identified suspicious indicators
+* `security-recommendations.md` — Recommended security and response actions
+* `screenshots/` — Supporting investigation evidence
+
+## Skills Demonstrated
+
+Through this project, I practised:
+
+* Phishing identification
+* Social engineering analysis
+* URL and domain analysis
+* Indicators of Compromise (IOC) identification
+* Basic threat assessment
+* Incident documentation
+* Security awareness
+* Incident response recommendations
+
+## Tools and Technologies
+
+This beginner project focused on security analysis and documentation rather than programming.
+
+Tools and concepts explored:
+
+* GitHub
+* Markdown
+* Email security concepts
+* URL analysis
+* Domain analysis
+* Indicators of Compromise (IOCs)
+* Phishing and social engineering
+
+## Disclaimer
+
+This is a simulated educational project created for cybersecurity learning and portfolio development.
+
+No real credentials, personal information or malicious systems were used.
